@@ -7,7 +7,7 @@ Welcome to helloWorld's documentation!
 ======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    T1D-LV/index
