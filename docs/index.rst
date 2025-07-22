@@ -10,7 +10,7 @@ Welcome to helloWorld's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   autodoc
+   T1D-LV/index
 
 Indices and tables
 ==================
